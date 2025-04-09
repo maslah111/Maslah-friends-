@@ -1,0 +1,1 @@
+console.log("Maslah Friends website is running!");
